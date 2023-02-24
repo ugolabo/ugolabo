@@ -1,10 +1,8 @@
 ### Bonjour 👋
 
-Voici un portfolio de projets.
+- 🔭 Consulter mon portfolio de projets. Le repo plus bas mène à un README.me de navigation vers d'autres repos.
+- ⚡ Je travaille à améliorer ce portfolio.
 
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 
 <!--
 **ugolabo/ugolabo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
