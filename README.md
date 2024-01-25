@@ -1,4 +1,4 @@
-## Bonjour 👋
+# Bonjour 👋
 
 - 🔭 Consulter mon portfolio de projets. Le repo plus bas mène à un README.me de navigation vers d'autres repos.
   - ⚡ Je travaille à améliorer ce portfolio
