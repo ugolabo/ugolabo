@@ -1,7 +1,9 @@
 ### Bonjour 👋
 
 - 🔭 Consulter mon portfolio de projets. Le repo plus bas mène à un README.me de navigation vers d'autres repos.
-- ⚡ Je travaille à améliorer ce portfolio.
+- ⚡ Je travaille à améliorer ce portfolio et à étudier le data engineering.
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ugolabo&theme=nord_dark)
 
 <!--
 **ugolabo/ugolabo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
