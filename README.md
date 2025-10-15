@@ -2,7 +2,6 @@
 
 - 🔭 Consulter mon portfolio de projets. Le repo plus bas mène à un README.me de navigation vers d'autres repos.
   - ⚡ Je travaille à améliorer ce portfolio
-- 🌱 J'étudie le data engineering.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ugolabo&theme=nord_dark)
 
