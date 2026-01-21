@@ -1,8 +1,8 @@
 # Bonjour 👋
 
 - 🔭 Consulter mon portfolio de projets.
-    - ✨ Je travaille à améliorer ce portfolio
-- ⚡ Ce [repo](https://github.com/ugolabo/portfolio) mène à un README.me de navigation vers d'autres repos.
+    - ⚡ Ce [repo](https://github.com/ugolabo/portfolio) mène à un README.me de navigation vers d'autres repos.
+    - ⚡ Je travaille à améliorer ce portfolio.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ugolabo&theme=nord_dark)
 
